@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.FDS'
 VERSION = '1.1'
 AUTHOR = 'Benny Chitambira'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.FDS']
 INSTALL_REQUIRES = []
